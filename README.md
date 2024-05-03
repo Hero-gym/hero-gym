@@ -1,1 +1,1 @@
-# hero-gym
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=BEBAS+NEUE&weight=900&size=100&duration=6000&pause=50&color=F70000&background=FFFFFF00&center=true&vCenter=true&random=false&width=600&height=100&lines=HERO+GYM" alt="Typing SVG" /></a>
